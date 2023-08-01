@@ -14,4 +14,4 @@ jobs:
           server: 159.223.67.50
           username: root
           password: zit.CKL@+[z!t]23#Z
-          server-dir: /var/www/html/api_khajna
+          server-dir: /var/www/html/api_khajna/
